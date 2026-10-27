@@ -1,6 +1,8 @@
 # Slapbox
 
-A slapback delay plugin. It gives you short, punchy echoes for vocals, guitars and drums, with saturation, stereo width and a built-in filter on the echo.
+<img width="897" height="635" alt="image" src="https://github.com/user-attachments/assets/ced41779-2cc7-46f1-819a-0b3ebd18426a" />
+
+A slap-back delay plugin. It gives you short, punchy echoes for vocals, guitars and drums, with saturation, stereo width and a built-in filter on the echo.
 
 Builds as a **VST3** plugin and a **standalone app**, using [JUCE](https://juce.com).
 
